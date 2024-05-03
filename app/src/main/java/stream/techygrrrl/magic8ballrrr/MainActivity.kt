@@ -160,7 +160,6 @@ class MainActivity : ComponentActivity() {
                                 text = answerText
                             )
                         }
-
                     }
                 }
             }

@@ -75,5 +75,5 @@ dependencies {
     implementation("io.github.sceneview:sceneview:2.1.1")
 
     // 8Ballrrr
-    implementation("com.github.techygrrrl:Magic8Ballrrr:0.1.1")
+    implementation("com.github.techygrrrl:Magic8Ballrrr:0.1.2")
 }
