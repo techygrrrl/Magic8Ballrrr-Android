@@ -73,4 +73,7 @@ dependencies {
 
     // 3D model rendering
     implementation("io.github.sceneview:sceneview:2.1.1")
+
+    // 8Ballrrr
+    implementation("com.github.techygrrrl:Magic8Ballrrr:0.1.1")
 }
